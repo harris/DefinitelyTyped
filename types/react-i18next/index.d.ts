@@ -22,7 +22,6 @@ import I18nextProvider from "./src/I18nextProvider";
 import Interpolate from "./src/interpolate";
 import loadNamespaces from "./src/loadNamespaces";
 import Trans from "./src/trans";
-import translate from "./src/translate";
 
 export {
     setDefaults,
@@ -36,7 +35,6 @@ export {
     Interpolate,
     loadNamespaces,
     Trans,
-    translate,
     TranslationFunction
 };
 
